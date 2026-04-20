@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python resize_image.py)"
+    ]
+  }
+}
